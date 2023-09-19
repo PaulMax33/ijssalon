@@ -1,1 +1,2 @@
-print ("Hallo Wereld!") ("Hallo Paul Aapie")
+print ("Hallo Wereld!")
+print ("Welkom in onze ijssalon")
